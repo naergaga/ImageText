@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageText</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_openImage">打开图片</string>
+</resources>
